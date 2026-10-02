@@ -1,2 +1,6 @@
 print("A")
+
+
+
+
 print("B")
